@@ -1,6 +1,6 @@
 # Firmware Description
 
-This firmware can be used in `Armbian` and `OpenWrt` systems. For example [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian), [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt). Integration will be downloaded automatically when building related systems.
+These firmwares can be used for both `Armbian` and `OpenWrt` systems, such as [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian), [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt), etc. They will be automatically downloaded and integrated when making the relevant systems.
 
 这些固件可以用于 `Armbian` 和 `OpenWrt` 系统，例如 [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian), [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) 等。在制作相关系统时会自动下载集成。
 
